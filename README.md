@@ -5,18 +5,29 @@ This Power BI dashboard offers a comprehensive visual analysis of Ola ride-haili
 🔍 Key Features & Visuals:
 
 📈 Ride Volume Over Time: Time-series analysis of daily or weekly ride trends.
+
 📊 Booking Status Breakdown: Proportional view of booking outcomes (successful, customer/driver cancellations).
+
 🚗 Top 5 Vehicle Types by Ride Distance: Comparison of vehicle types based on distance traveled.
+
 ⭐ Average Customer Ratings by Vehicle Type: Ratings segmented by vehicle categories.
+
 ❌ Canceled Ride Reasons: Insight into why rides are canceled by both customers and drivers.
+
 💰 Revenue by Payment Method: Revenue distribution across Cash, UPI, Credit Card, etc.
+
 🏆 Top 5 Customers by Booking Value: Highlights the most valuable customers by total spending.
+
 🛣️ Ride Distance Distribution Per Day: Ride length variability across different days.
+
 📦 Driver Rating Distribution: Box plot of rating consistency across vehicle types.
+
 ⚖️ Customer vs. Driver Ratings: Correlation analysis between customer and driver ratings for completed rides.
 
 🛠️ Tools Used:
+
   Power BI for data visualization.
+  
   DAX for calculated measures and KPIs.
 
 Interactive slicers and filters for dynamic exploration.
