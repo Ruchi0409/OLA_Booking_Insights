@@ -23,11 +23,17 @@ This Power BI dashboard offers a comprehensive visual analysis of Ola ride-haili
 
 ⚖️ Customer vs. Driver Ratings: Correlation analysis between customer and driver ratings for completed rides.
 
+
 🛠️ Tools Used:
-Power BI for data visualization
+Power BI for data visualization.
 
-DAX for calculated measures and KPIs
+DAX for calculated measures and KPIs.
 
-Interactive slicers and filters for dynamic exploration
+Interactive slicers and filters for dynamic exploration.
 
+📌 Results & Insights:
+▶️ High ride volume on specific days → Indicates peak demand; optimize driver availability.
+▶️ SUVs/Sedans lead in ride distance → Popular for longer trips; promote or expand fleet.
+▶️ Cash is dominant payment mode → Opportunity to push UPI/cards for faster, safer transactions.
+▶️ Top cancellation reasons identified → Target specific issues (Driver not moving towards pickup location , Driver asked to location,etc).
 This dashboard project is ideal for showcasing skills in data storytelling, business intelligence, and Power BI dashboard design within a real-world ride-sharing context.
